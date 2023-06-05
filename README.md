@@ -2,7 +2,7 @@
 
 My first bubble tea demo using go.
 
-![](.\demo.gif)
+![](./demo.gif)
 
 ## NOTE
 
